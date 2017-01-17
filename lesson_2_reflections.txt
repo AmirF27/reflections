@@ -15,3 +15,12 @@ How can you use the staging area to make sure you have one commit per logical ch
 
     Using git diff --staged will show the difference between what you have in your
     staging area and the latest commit.
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+
+    Some situations would include when you're including a feature but are not sure
+    it would work yet. Branches would allow to work on some features that you don't
+    yet want to include in the official version of your project, so this way you
+    can retain a working version of your project while working on other ideas separately
+    without affecting the offical version.

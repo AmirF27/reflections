@@ -24,3 +24,15 @@ organized? How would branches help?
     yet want to include in the official version of your project, so this way you
     can retain a working version of your project while working on other ideas separately
     without affecting the offical version.
+
+How do the diagrams help you visualize the branch structure?
+
+    They outline clearly the entire structure repository history, making it easy to
+    see where each branch is.
+
+What is the result of merging two branches together? Why do we represent it in the 
+diagram the way we do?
+
+    The result is a commit containing changes from both branches. We represent it
+    the way we do because the new commit now actually points to two different parents
+    that used to be the actual branches.

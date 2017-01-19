@@ -36,3 +36,9 @@ diagram the way we do?
     The result is a commit containing changes from both branches. We represent it
     the way we do because the new commit now actually points to two different parents
     that used to be the actual branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    The advantage of Git's automcatic merging is that it just merges the files for you. 
+    With manual merging however, you can verify the changes and choose exactly what 
+    you want you want to merge.

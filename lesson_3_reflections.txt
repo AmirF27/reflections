@@ -24,3 +24,11 @@ one instead of another?
        I don't want in the official version of the project just yet. Another case 
        where I would use branches is when I'm working with someone else on the same 
        project and each of us is working on a separate feature.
+
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+
+    There are some cases that you might not have internet access, so having a copy 
+    of the last known state of the remote stored locally would allow to keep a reference
+    of where you last left off. Another reason it's helpful is for Git to know whether 
+    your local and remote copies are in sync.

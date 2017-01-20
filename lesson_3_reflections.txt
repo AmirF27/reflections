@@ -8,3 +8,19 @@ stay up-to-date with your remote repository?
     Because when working with others, you often don't want their changes to be pulled
     automatically to your local repository. When each person is working on a separate
     feature, for example, this might cause some unwanted issues.
+
+Describe the differences between forks, clones, and branches. When would you use 
+one instead of another?
+
+     - Clones are a copy of the entire repository, along with the commit log. I would
+       use them to clone a repository to my machine from either an online or local
+       source.
+     - Forks are a GitHub feature, and they basically clone someone else's repository
+       to your account, all on their own servers. I would use them when I want to 
+       contribute to someone's repository and I don't have permission to do so 
+       (provided they agree to it).
+     - Branches are just labels that are attached to certain commits. I would use 
+       them when I want to work on an experimental feature, or some feature that 
+       I don't want in the official version of the project just yet. Another case 
+       where I would use branches is when I'm working with someone else on the same 
+       project and each of us is working on a separate feature.

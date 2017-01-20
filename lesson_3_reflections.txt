@@ -32,3 +32,13 @@ locally?
     of the last known state of the remote stored locally would allow to keep a reference
     of where you last left off. Another reason it's helpful is for Git to know whether 
     your local and remote copies are in sync.
+
+How would you collaborate without using Git or GitHub? What would be easier, and 
+what would be harder?
+
+    Now that I've learned about Git and GitHub, it's hard to want to collaborate in 
+    another way. However, if I was going to do it anyway, it would probably be via 
+    email exchange, or perhaps C9 or some other platform. I can't see anything being 
+    easier with this approach, but what would be harder is definitely the lack of 
+    version control, lack of all the different extremely helpful features Git and 
+    GitHub provide, and so on.

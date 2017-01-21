@@ -42,3 +42,12 @@ what would be harder?
     easier with this approach, but what would be harder is definitely the lack of 
     version control, lack of all the different extremely helpful features Git and 
     GitHub provide, and so on.
+
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+
+    Using a separate branch allows you to show your changes to others for feedback 
+    before merging the changes into the master branch. The benefits are that this 
+    approach allows to get feedback, as well as work on different features separately 
+    before incorporating them into the official prject. The benefits of making changes 
+    directly on the master branch is that it's simpler and doesn't require any merges.
